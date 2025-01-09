@@ -158,15 +158,6 @@
     opacity: 1;
 }
 
-/* For Contact Us Page */
-.page-header {
-    background-image: url('../img/9.avif');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-
 /*** Button ***/
 .btn {
     font-weight: 500;
